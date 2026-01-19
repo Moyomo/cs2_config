@@ -1,0 +1,20 @@
+Test_WaitForCheckPoint frame_end
+
+JT!
+JT!
+JT!
+JT!
+
+M1!
+M2!
+
+W!
+W!
+A!
+A!
+S!
+S!
+D!
+D!
+
+Test_Run ../../csgo/cfg/a.vtest
